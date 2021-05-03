@@ -1,0 +1,8 @@
+select * from provincies;
+
+select * from regencies;
+
+select * from districts;
+
+select * from villages;
+
